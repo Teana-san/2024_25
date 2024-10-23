@@ -3,4 +3,5 @@ Para eliminar repositorio vamos a Settings a Danger zone y pulgamos Delete Repos
 
 # Tatiana 23/10/24
 Mi primer commit
+
 # Info que tiene que tener
